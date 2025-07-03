@@ -34,4 +34,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Sumit-0005/CP-track/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

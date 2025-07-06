@@ -7,6 +7,7 @@ In this we add every question that we solve on leetcode
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sumit-0005/CP-track/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumit-0005/CP-track/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -44,6 +45,7 @@ In this we add every question that we solve on leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sumit-0005/CP-track/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sumit-0005/CP-track/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
@@ -63,4 +65,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sumit-0005/CP-track/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

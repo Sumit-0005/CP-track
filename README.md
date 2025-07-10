@@ -21,6 +21,7 @@ In this we add every question that we solve on leetcode
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +103,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

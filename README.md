@@ -19,6 +19,7 @@ In this we add every question that we solve on leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-0005/CP-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ In this we add every question that we solve on leetcode
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
 ## Math
 |  |
 | ------- |

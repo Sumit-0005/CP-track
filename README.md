@@ -13,6 +13,7 @@ In this we add every question that we solve on leetcode
 | [0027-remove-element](https://github.com/Sumit-0005/CP-track/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
@@ -40,6 +41,7 @@ In this we add every question that we solve on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
@@ -52,6 +54,7 @@ In this we add every question that we solve on leetcode
 | [0001-two-sum](https://github.com/Sumit-0005/CP-track/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sumit-0005/CP-track/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
@@ -74,6 +77,7 @@ In this we add every question that we solve on leetcode
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sumit-0005/CP-track/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sumit-0005/CP-track/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |

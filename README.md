@@ -25,6 +25,7 @@ In this we add every question that we solve on leetcode
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ In this we add every question that we solve on leetcode
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,14 +55,17 @@ In this we add every question that we solve on leetcode
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -118,4 +123,16 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

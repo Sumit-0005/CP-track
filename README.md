@@ -13,6 +13,7 @@ In this we add every question that we solve on leetcode
 | [0015-3sum](https://github.com/Sumit-0005/CP-track/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumit-0005/CP-track/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
@@ -66,6 +67,7 @@ In this we add every question that we solve on leetcode
 | [0001-two-sum](https://github.com/Sumit-0005/CP-track/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sumit-0005/CP-track/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-0005/CP-track/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
@@ -181,4 +183,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

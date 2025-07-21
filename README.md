@@ -125,6 +125,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sumit-0005/CP-track/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
@@ -197,4 +198,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

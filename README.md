@@ -103,6 +103,7 @@ In this we add every question that we solve on leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sumit-0005/CP-track/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -8,6 +8,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-0005/CP-track/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-0005/CP-track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sumit-0005/CP-track/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sumit-0005/CP-track/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sumit-0005/CP-track/tree/master/0015-3sum) |
@@ -80,6 +81,7 @@ In this we add every question that we solve on leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-0005/CP-track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -190,6 +192,7 @@ In this we add every question that we solve on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-0005/CP-track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |

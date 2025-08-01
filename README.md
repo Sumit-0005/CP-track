@@ -23,6 +23,7 @@ In this we add every question that we solve on leetcode
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-0005/CP-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-0005/CP-track/tree/master/0128-longest-consecutive-sequence) |
@@ -117,6 +118,7 @@ In this we add every question that we solve on leetcode
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-0005/CP-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |

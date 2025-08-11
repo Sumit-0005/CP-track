@@ -41,6 +41,7 @@ In this we add every question that we solve on leetcode
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -170,6 +171,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
+| [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -241,6 +243,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
 ## Brainteaser
 |  |
 | ------- |

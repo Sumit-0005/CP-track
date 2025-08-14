@@ -36,6 +36,7 @@ In this we add every question that we solve on leetcode
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
@@ -60,6 +61,7 @@ In this we add every question that we solve on leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -215,6 +217,7 @@ In this we add every question that we solve on leetcode
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -245,6 +248,7 @@ In this we add every question that we solve on leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
 ## Brainteaser

@@ -121,6 +121,7 @@ In this we add every question that we solve on leetcode
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumit-0005/CP-track/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -142,6 +143,7 @@ In this we add every question that we solve on leetcode
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ In this we add every question that we solve on leetcode
 | [0172-factorial-trailing-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
+| [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |

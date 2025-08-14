@@ -121,6 +121,7 @@ In this we add every question that we solve on leetcode
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumit-0005/CP-track/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |

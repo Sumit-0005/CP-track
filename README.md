@@ -153,6 +153,7 @@ In this we add every question that we solve on leetcode
 | [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
@@ -241,6 +242,7 @@ In this we add every question that we solve on leetcode
 | [0021-merge-two-sorted-lists](https://github.com/Sumit-0005/CP-track/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +255,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
 ## Brainteaser

@@ -14,6 +14,7 @@ In this we add every question that we solve on leetcode
 | [0015-3sum](https://github.com/Sumit-0005/CP-track/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sumit-0005/CP-track/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
@@ -225,6 +226,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-0005/CP-track/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |

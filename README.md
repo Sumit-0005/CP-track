@@ -41,6 +41,7 @@ In this we add every question that we solve on leetcode
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
+| [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
@@ -221,6 +222,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
@@ -243,6 +245,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit-0005/CP-track/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sliding Window
 |  |

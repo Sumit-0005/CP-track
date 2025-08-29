@@ -43,6 +43,7 @@ In this we add every question that we solve on leetcode
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
+| [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
@@ -185,12 +186,14 @@ In this we add every question that we solve on leetcode
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |

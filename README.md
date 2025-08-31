@@ -16,6 +16,7 @@ In this we add every question that we solve on leetcode
 | [0027-remove-element](https://github.com/Sumit-0005/CP-track/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
@@ -92,6 +93,7 @@ In this we add every question that we solve on leetcode
 | [0012-integer-to-roman](https://github.com/Sumit-0005/CP-track/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-0005/CP-track/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sumit-0005/CP-track/tree/master/0141-linked-list-cycle) |
@@ -251,6 +253,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit-0005/CP-track/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -300,4 +303,5 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

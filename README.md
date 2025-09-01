@@ -48,6 +48,7 @@ In this we add every question that we solve on leetcode
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -158,6 +159,7 @@ In this we add every question that we solve on leetcode
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -210,6 +212,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
 | ------- |

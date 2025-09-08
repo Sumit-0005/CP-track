@@ -181,6 +181,7 @@ In this we add every question that we solve on leetcode
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sumit-0005/CP-track/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |

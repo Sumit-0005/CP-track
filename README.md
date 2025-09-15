@@ -363,4 +363,20 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

@@ -54,6 +54,7 @@ In this we add every question that we solve on leetcode
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
@@ -118,6 +119,7 @@ In this we add every question that we solve on leetcode
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumit-0005/CP-track/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -155,6 +157,7 @@ In this we add every question that we solve on leetcode
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -246,6 +249,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -259,6 +263,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
+| [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 ## Randomized
 |  |
 | ------- |
@@ -341,6 +346,7 @@ In this we add every question that we solve on leetcode
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |

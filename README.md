@@ -64,6 +64,7 @@ In this we add every question that we solve on leetcode
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit-0005/CP-track/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ In this we add every question that we solve on leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -161,6 +163,7 @@ In this we add every question that we solve on leetcode
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -267,6 +270,7 @@ In this we add every question that we solve on leetcode
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 ## Randomized
 |  |
 | ------- |
@@ -302,6 +306,7 @@ In this we add every question that we solve on leetcode
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit-0005/CP-track/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |

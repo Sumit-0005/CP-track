@@ -65,6 +65,7 @@ In this we add every question that we solve on leetcode
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ In this we add every question that we solve on leetcode
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -271,6 +273,7 @@ In this we add every question that we solve on leetcode
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -298,6 +301,7 @@ In this we add every question that we solve on leetcode
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -357,6 +361,7 @@ In this we add every question that we solve on leetcode
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,6 +382,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |

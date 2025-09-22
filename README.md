@@ -59,6 +59,7 @@ In this we add every question that we solve on leetcode
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit-0005/CP-track/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -124,6 +125,7 @@ In this we add every question that we solve on leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
@@ -139,6 +141,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |

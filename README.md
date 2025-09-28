@@ -50,6 +50,7 @@ In this we add every question that we solve on leetcode
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
@@ -105,6 +106,7 @@ In this we add every question that we solve on leetcode
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit-0005/CP-track/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -205,6 +207,7 @@ In this we add every question that we solve on leetcode
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
@@ -223,6 +226,7 @@ In this we add every question that we solve on leetcode
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sumit-0005/CP-track/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |

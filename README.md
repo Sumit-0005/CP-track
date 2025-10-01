@@ -60,6 +60,7 @@ In this we add every question that we solve on leetcode
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -234,6 +235,7 @@ In this we add every question that we solve on leetcode
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit-0005/CP-track/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -311,6 +313,7 @@ In this we add every question that we solve on leetcode
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
@@ -438,4 +441,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->

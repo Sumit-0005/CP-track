@@ -156,6 +156,7 @@ In this we add every question that we solve on leetcode
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -174,6 +175,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -263,6 +265,7 @@ In this we add every question that we solve on leetcode
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sumit-0005/CP-track/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -450,6 +453,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
 |  |
 | ------- |
@@ -459,6 +463,7 @@ In this we add every question that we solve on leetcode
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit-0005/CP-track/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit-0005/CP-track/tree/master/3278-find-the-number-of-ways-to-place-people-i) |

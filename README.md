@@ -58,6 +58,7 @@ In this we add every question that we solve on leetcode
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
@@ -232,6 +233,7 @@ In this we add every question that we solve on leetcode
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sumit-0005/CP-track/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit-0005/CP-track/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -247,6 +249,7 @@ In this we add every question that we solve on leetcode
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
@@ -302,6 +305,7 @@ In this we add every question that we solve on leetcode
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
@@ -310,6 +314,7 @@ In this we add every question that we solve on leetcode
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
 |  |
 | ------- |

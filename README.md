@@ -81,6 +81,7 @@ In this we add every question that we solve on leetcode
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sumit-0005/CP-track/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit-0005/CP-track/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sumit-0005/CP-track/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sumit-0005/CP-track/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sumit-0005/CP-track/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -166,6 +167,7 @@ In this we add every question that we solve on leetcode
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sumit-0005/CP-track/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sumit-0005/CP-track/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
@@ -441,6 +443,7 @@ In this we add every question that we solve on leetcode
 | [0141-linked-list-cycle](https://github.com/Sumit-0005/CP-track/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sumit-0005/CP-track/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |

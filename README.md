@@ -97,6 +97,7 @@ In this we add every question that we solve on leetcode
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit-0005/CP-track/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ In this we add every question that we solve on leetcode
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -355,6 +357,7 @@ In this we add every question that we solve on leetcode
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sumit-0005/CP-track/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sumit-0005/CP-track/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -398,6 +401,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-0005/CP-track/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -488,6 +492,7 @@ In this we add every question that we solve on leetcode
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -525,12 +530,14 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -550,4 +557,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit-0005/CP-track/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->

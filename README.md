@@ -76,6 +76,7 @@ In this we add every question that we solve on leetcode
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sumit-0005/CP-track/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -269,6 +270,7 @@ In this we add every question that we solve on leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Math
 |  |
 | ------- |
@@ -337,6 +339,7 @@ In this we add every question that we solve on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sumit-0005/CP-track/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -416,6 +419,7 @@ In this we add every question that we solve on leetcode
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumit-0005/CP-track/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sumit-0005/CP-track/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -441,6 +445,7 @@ In this we add every question that we solve on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sumit-0005/CP-track/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sumit-0005/CP-track/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -516,6 +521,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 ## Game Theory
 |  |

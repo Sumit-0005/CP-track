@@ -249,6 +249,7 @@ In this we add every question that we solve on leetcode
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumit-0005/CP-track/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit-0005/CP-track/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -473,6 +474,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sumit-0005/CP-track/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit-0005/CP-track/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -567,4 +569,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->

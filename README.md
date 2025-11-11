@@ -46,6 +46,7 @@ In this we add every question that we solve on leetcode
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
@@ -217,6 +218,7 @@ In this we add every question that we solve on leetcode
 | [0166-fraction-to-recurring-decimal](https://github.com/Sumit-0005/CP-track/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumit-0005/CP-track/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumit-0005/CP-track/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -245,6 +247,7 @@ In this we add every question that we solve on leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-0005/CP-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sumit-0005/CP-track/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

@@ -175,6 +175,7 @@ In this we add every question that we solve on leetcode
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumit-0005/CP-track/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
@@ -312,6 +313,7 @@ In this we add every question that we solve on leetcode
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sumit-0005/CP-track/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |

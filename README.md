@@ -107,6 +107,7 @@ In this we add every question that we solve on leetcode
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sumit-0005/CP-track/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sumit-0005/CP-track/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -201,6 +202,7 @@ In this we add every question that we solve on leetcode
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sumit-0005/CP-track/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sumit-0005/CP-track/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sumit-0005/CP-track/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
@@ -344,6 +346,7 @@ In this we add every question that we solve on leetcode
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sumit-0005/CP-track/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sumit-0005/CP-track/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -565,6 +568,7 @@ In this we add every question that we solve on leetcode
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit-0005/CP-track/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 ## Enumeration
 |  |
 | ------- |

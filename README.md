@@ -257,6 +257,7 @@ In this we add every question that we solve on leetcode
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sumit-0005/CP-track/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sumit-0005/CP-track/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Sumit-0005/CP-track/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit-0005/CP-track/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Sumit-0005/CP-track/tree/master/2429-design-a-food-rating-system) |
@@ -374,6 +375,7 @@ In this we add every question that we solve on leetcode
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/Sumit-0005/CP-track/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -445,6 +447,7 @@ In this we add every question that we solve on leetcode
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sumit-0005/CP-track/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Sumit-0005/CP-track/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/Sumit-0005/CP-track/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sumit-0005/CP-track/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sumit-0005/CP-track/tree/master/2343-count-unguarded-cells-in-the-grid) |

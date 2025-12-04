@@ -597,11 +597,13 @@ In this we add every question that we solve on leetcode
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sumit-0005/CP-track/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sumit-0005/CP-track/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -609,6 +611,7 @@ In this we add every question that we solve on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
@@ -616,6 +619,7 @@ In this we add every question that we solve on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 ## Number Theory
 |  |

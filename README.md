@@ -71,6 +71,7 @@ In this we add every question that we solve on leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumit-0005/CP-track/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sumit-0005/CP-track/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/Sumit-0005/CP-track/tree/master/2169-simple-bank-system) |
@@ -303,6 +304,7 @@ In this we add every question that we solve on leetcode
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumit-0005/CP-track/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumit-0005/CP-track/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sumit-0005/CP-track/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -356,6 +358,7 @@ In this we add every question that we solve on leetcode
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sumit-0005/CP-track/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Sumit-0005/CP-track/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumit-0005/CP-track/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sumit-0005/CP-track/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit-0005/CP-track/tree/master/2244-number-of-laser-beams-in-a-bank) |

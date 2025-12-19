@@ -165,6 +165,7 @@ In this we add every question that we solve on leetcode
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sumit-0005/CP-track/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumit-0005/CP-track/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -493,6 +494,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-0005/CP-track/tree/master/0128-longest-consecutive-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -642,6 +644,7 @@ In this we add every question that we solve on leetcode
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
+| [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sumit-0005/CP-track/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -651,6 +654,7 @@ In this we add every question that we solve on leetcode
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
+| [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -677,6 +681,7 @@ In this we add every question that we solve on leetcode
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |

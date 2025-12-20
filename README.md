@@ -54,6 +54,7 @@ In this we add every question that we solve on leetcode
 | [0759-set-intersection-size-at-least-two](https://github.com/Sumit-0005/CP-track/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumit-0005/CP-track/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -264,6 +265,7 @@ In this we add every question that we solve on leetcode
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumit-0005/CP-track/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumit-0005/CP-track/tree/master/1302-delete-characters-to-make-fancy-string) |

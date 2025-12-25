@@ -95,6 +95,7 @@ In this we add every question that we solve on leetcode
 | [2625-increment-submatrices-by-one](https://github.com/Sumit-0005/CP-track/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sumit-0005/CP-track/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sumit-0005/CP-track/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sumit-0005/CP-track/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sumit-0005/CP-track/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -177,6 +178,7 @@ In this we add every question that we solve on leetcode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumit-0005/CP-track/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sumit-0005/CP-track/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sumit-0005/CP-track/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit-0005/CP-track/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3433-count-mentions-per-user](https://github.com/Sumit-0005/CP-track/tree/master/3433-count-mentions-per-user) |
@@ -350,6 +352,7 @@ In this we add every question that we solve on leetcode
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sumit-0005/CP-track/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sumit-0005/CP-track/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sumit-0005/CP-track/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |

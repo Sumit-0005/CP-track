@@ -62,6 +62,7 @@ In this we add every question that we solve on leetcode
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumit-0005/CP-track/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sumit-0005/CP-track/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sumit-0005/CP-track/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -533,6 +534,7 @@ In this we add every question that we solve on leetcode
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sumit-0005/CP-track/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -552,6 +554,7 @@ In this we add every question that we solve on leetcode
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit-0005/CP-track/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sumit-0005/CP-track/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |

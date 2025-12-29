@@ -207,6 +207,7 @@ In this we add every question that we solve on leetcode
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
+| [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumit-0005/CP-track/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -277,6 +278,7 @@ In this we add every question that we solve on leetcode
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -598,6 +600,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumit-0005/CP-track/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sumit-0005/CP-track/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -632,6 +635,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
+| [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
 |  |

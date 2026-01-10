@@ -288,6 +288,7 @@ In this we add every question that we solve on leetcode
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit-0005/CP-track/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -329,6 +330,7 @@ In this we add every question that we solve on leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit-0005/CP-track/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sumit-0005/CP-track/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |

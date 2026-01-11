@@ -26,6 +26,7 @@ In this we add every question that we solve on leetcode
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0120-triangle) |
@@ -324,6 +325,7 @@ In this we add every question that we solve on leetcode
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-0005/CP-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -442,6 +444,7 @@ In this we add every question that we solve on leetcode
 | [0020-valid-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
@@ -454,6 +457,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
@@ -573,6 +577,7 @@ In this we add every question that we solve on leetcode
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |

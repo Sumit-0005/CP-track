@@ -105,6 +105,7 @@ In this we add every question that we solve on leetcode
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Sumit-0005/CP-track/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sumit-0005/CP-track/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sumit-0005/CP-track/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sumit-0005/CP-track/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -191,6 +192,7 @@ In this we add every question that we solve on leetcode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumit-0005/CP-track/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Sumit-0005/CP-track/tree/master/2402-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sumit-0005/CP-track/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sumit-0005/CP-track/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |

@@ -80,6 +80,7 @@ In this we add every question that we solve on leetcode
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumit-0005/CP-track/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1895-largest-magic-square](https://github.com/Sumit-0005/CP-track/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sumit-0005/CP-track/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sumit-0005/CP-track/tree/master/1975-maximum-matrix-sum) |
@@ -476,6 +477,7 @@ In this we add every question that we solve on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumit-0005/CP-track/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/Sumit-0005/CP-track/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sumit-0005/CP-track/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sumit-0005/CP-track/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit-0005/CP-track/tree/master/2529-range-product-queries-of-powers) |
@@ -595,6 +597,7 @@ In this we add every question that we solve on leetcode
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/Sumit-0005/CP-track/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sumit-0005/CP-track/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sumit-0005/CP-track/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit-0005/CP-track/tree/master/2244-number-of-laser-beams-in-a-bank) |

@@ -86,6 +86,7 @@ In this we add every question that we solve on leetcode
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sumit-0005/CP-track/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sumit-0005/CP-track/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumit-0005/CP-track/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sumit-0005/CP-track/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumit-0005/CP-track/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -196,6 +197,7 @@ In this we add every question that we solve on leetcode
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumit-0005/CP-track/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sumit-0005/CP-track/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -631,6 +633,7 @@ In this we add every question that we solve on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumit-0005/CP-track/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sumit-0005/CP-track/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sumit-0005/CP-track/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

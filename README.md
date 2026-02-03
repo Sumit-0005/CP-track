@@ -154,6 +154,7 @@ In this we add every question that we solve on leetcode
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sumit-0005/CP-track/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |

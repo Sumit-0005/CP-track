@@ -155,6 +155,7 @@ In this we add every question that we solve on leetcode
 | [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sumit-0005/CP-track/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
@@ -385,6 +386,7 @@ In this we add every question that we solve on leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sumit-0005/CP-track/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sumit-0005/CP-track/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit-0005/CP-track/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy

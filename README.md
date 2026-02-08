@@ -774,6 +774,7 @@ In this we add every question that we solve on leetcode
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -783,6 +784,7 @@ In this we add every question that we solve on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
@@ -808,6 +810,7 @@ In this we add every question that we solve on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |

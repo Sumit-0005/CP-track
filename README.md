@@ -159,6 +159,7 @@ In this we add every question that we solve on leetcode
 | [3637-trionic-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sumit-0005/CP-track/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -283,6 +284,7 @@ In this we add every question that we solve on leetcode
 | [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sumit-0005/CP-track/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Sumit-0005/CP-track/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sumit-0005/CP-track/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Sumit-0005/CP-track/tree/master/3863-power-grid-maintenance) |
@@ -294,6 +296,7 @@ In this we add every question that we solve on leetcode
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -529,6 +532,7 @@ In this we add every question that we solve on leetcode
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sumit-0005/CP-track/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sumit-0005/CP-track/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting Sort
 |  |
@@ -722,6 +726,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Sumit-0005/CP-track/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |

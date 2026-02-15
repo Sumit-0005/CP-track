@@ -327,6 +327,7 @@ In this we add every question that we solve on leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sumit-0005/CP-track/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Sumit-0005/CP-track/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0151-reverse-words-in-a-string) |
@@ -445,6 +446,7 @@ In this we add every question that we solve on leetcode
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sumit-0005/CP-track/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sumit-0005/CP-track/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
@@ -593,6 +595,7 @@ In this we add every question that we solve on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |
@@ -712,6 +715,7 @@ In this we add every question that we solve on leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |

@@ -298,6 +298,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-0005/CP-track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Sumit-0005/CP-track/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
@@ -716,6 +717,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Sumit-0005/CP-track/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |

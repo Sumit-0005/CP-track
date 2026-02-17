@@ -720,6 +720,7 @@ In this we add every question that we solve on leetcode
 | [0190-reverse-bits](https://github.com/Sumit-0005/CP-track/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Sumit-0005/CP-track/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumit-0005/CP-track/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -762,6 +763,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Sumit-0005/CP-track/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry

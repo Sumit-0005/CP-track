@@ -818,6 +818,7 @@ In this we add every question that we solve on leetcode
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumit-0005/CP-track/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
@@ -830,6 +831,7 @@ In this we add every question that we solve on leetcode
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumit-0005/CP-track/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
@@ -856,6 +858,7 @@ In this we add every question that we solve on leetcode
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumit-0005/CP-track/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |

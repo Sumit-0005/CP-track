@@ -150,6 +150,7 @@ In this we add every question that we solve on leetcode
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Sumit-0005/CP-track/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sumit-0005/CP-track/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sumit-0005/CP-track/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sumit-0005/CP-track/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sumit-0005/CP-track/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -242,6 +243,7 @@ In this we add every question that we solve on leetcode
 | [3433-count-mentions-per-user](https://github.com/Sumit-0005/CP-track/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Sumit-0005/CP-track/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sumit-0005/CP-track/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Sumit-0005/CP-track/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sumit-0005/CP-track/tree/master/3634-minimum-removals-to-balance-array) |
@@ -736,6 +738,7 @@ In this we add every question that we solve on leetcode
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sumit-0005/CP-track/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sumit-0005/CP-track/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit-0005/CP-track/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sumit-0005/CP-track/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 ## Sliding Window

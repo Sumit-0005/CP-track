@@ -58,6 +58,7 @@ In this we add every question that we solve on leetcode
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -282,6 +283,7 @@ In this we add every question that we solve on leetcode
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sumit-0005/CP-track/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -684,6 +686,7 @@ In this we add every question that we solve on leetcode
 | [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
+| [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumit-0005/CP-track/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |

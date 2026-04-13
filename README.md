@@ -89,6 +89,7 @@ In this we add every question that we solve on leetcode
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sumit-0005/CP-track/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Sumit-0005/CP-track/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sumit-0005/CP-track/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |

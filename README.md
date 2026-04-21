@@ -103,6 +103,7 @@ In this we add every question that we solve on leetcode
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumit-0005/CP-track/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sumit-0005/CP-track/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sumit-0005/CP-track/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumit-0005/CP-track/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sumit-0005/CP-track/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -521,6 +522,7 @@ In this we add every question that we solve on leetcode
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Sumit-0005/CP-track/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sumit-0005/CP-track/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumit-0005/CP-track/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2573-find-the-string-with-lcp](https://github.com/Sumit-0005/CP-track/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sumit-0005/CP-track/tree/master/2618-maximize-the-minimum-powered-city) |

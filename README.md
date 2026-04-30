@@ -200,6 +200,7 @@ In this we add every question that we solve on leetcode
 | [3721-longest-balanced-subarray-ii](https://github.com/Sumit-0005/CP-track/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sumit-0005/CP-track/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sumit-0005/CP-track/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Sumit-0005/CP-track/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sumit-0005/CP-track/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
@@ -508,6 +509,7 @@ In this we add every question that we solve on leetcode
 | [3640-trionic-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sumit-0005/CP-track/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit-0005/CP-track/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
@@ -844,6 +846,7 @@ In this we add every question that we solve on leetcode
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sumit-0005/CP-track/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sumit-0005/CP-track/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sumit-0005/CP-track/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Sumit-0005/CP-track/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |

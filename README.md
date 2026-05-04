@@ -19,6 +19,7 @@ In this we add every question that we solve on leetcode
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Sumit-0005/CP-track/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sumit-0005/CP-track/tree/master/0066-plus-one) |
@@ -559,6 +560,7 @@ In this we add every question that we solve on leetcode
 | [0009-palindrome-number](https://github.com/Sumit-0005/CP-track/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sumit-0005/CP-track/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Sumit-0005/CP-track/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sumit-0005/CP-track/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
@@ -817,6 +819,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit-0005/CP-track/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sumit-0005/CP-track/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |

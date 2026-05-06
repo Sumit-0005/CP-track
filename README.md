@@ -96,6 +96,7 @@ In this we add every question that we solve on leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sumit-0005/CP-track/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sumit-0005/CP-track/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-0005/CP-track/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Sumit-0005/CP-track/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sumit-0005/CP-track/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -236,6 +237,7 @@ In this we add every question that we solve on leetcode
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-0005/CP-track/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Sumit-0005/CP-track/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sumit-0005/CP-track/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sumit-0005/CP-track/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -835,6 +837,7 @@ In this we add every question that we solve on leetcode
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sumit-0005/CP-track/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Sumit-0005/CP-track/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sumit-0005/CP-track/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Sumit-0005/CP-track/tree/master/1895-largest-magic-square) |

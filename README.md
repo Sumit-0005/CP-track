@@ -45,6 +45,7 @@ In this we add every question that we solve on leetcode
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
@@ -265,6 +266,7 @@ In this we add every question that we solve on leetcode
 | [0165-compare-version-numbers](https://github.com/Sumit-0005/CP-track/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |

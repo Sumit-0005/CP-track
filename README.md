@@ -25,6 +25,7 @@ In this we add every question that we solve on leetcode
 | [0066-plus-one](https://github.com/Sumit-0005/CP-track/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Sumit-0005/CP-track/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
@@ -257,6 +258,7 @@ In this we add every question that we solve on leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sumit-0005/CP-track/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sumit-0005/CP-track/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sumit-0005/CP-track/tree/master/0125-valid-palindrome) |
@@ -287,6 +289,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0015-3sum](https://github.com/Sumit-0005/CP-track/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Sumit-0005/CP-track/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |

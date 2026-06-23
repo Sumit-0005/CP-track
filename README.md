@@ -69,6 +69,7 @@ In this we add every question that we solve on leetcode
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sumit-0005/CP-track/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumit-0005/CP-track/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -768,6 +769,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumit-0005/CP-track/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumit-0005/CP-track/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -912,6 +914,7 @@ In this we add every question that we solve on leetcode
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumit-0005/CP-track/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sumit-0005/CP-track/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
@@ -988,6 +991,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-0005/CP-track/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/Sumit-0005/CP-track/tree/master/1871-jump-game-vii) |

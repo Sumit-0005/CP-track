@@ -240,6 +240,7 @@ In this we add every question that we solve on leetcode
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sumit-0005/CP-track/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sumit-0005/CP-track/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sumit-0005/CP-track/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sumit-0005/CP-track/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -425,6 +426,7 @@ In this we add every question that we solve on leetcode
 | [3714-longest-balanced-substring-ii](https://github.com/Sumit-0005/CP-track/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sumit-0005/CP-track/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sumit-0005/CP-track/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sumit-0005/CP-track/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sumit-0005/CP-track/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -445,6 +447,7 @@ In this we add every question that we solve on leetcode
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sumit-0005/CP-track/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sumit-0005/CP-track/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -459,6 +462,7 @@ In this we add every question that we solve on leetcode
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sumit-0005/CP-track/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Sumit-0005/CP-track/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Sumit-0005/CP-track/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sumit-0005/CP-track/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -809,6 +813,7 @@ In this we add every question that we solve on leetcode
 | [3714-longest-balanced-substring-ii](https://github.com/Sumit-0005/CP-track/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sumit-0005/CP-track/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sumit-0005/CP-track/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting Sort
 |  |
@@ -1089,6 +1094,7 @@ In this we add every question that we solve on leetcode
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sumit-0005/CP-track/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumit-0005/CP-track/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sumit-0005/CP-track/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit-0005/CP-track/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1296,4 +1302,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Sumit-0005/CP-track/tree/master/3161-block-placement-queries) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

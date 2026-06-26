@@ -85,6 +85,7 @@ In this we add every question that we solve on leetcode
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumit-0005/CP-track/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1306-jump-game-iii) |
+| [1314-matrix-block-sum](https://github.com/Sumit-0005/CP-track/tree/master/1314-matrix-block-sum) |
 | [1340-jump-game-v](https://github.com/Sumit-0005/CP-track/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -795,6 +796,7 @@ In this we add every question that we solve on leetcode
 | [0724-find-pivot-index](https://github.com/Sumit-0005/CP-track/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1314-matrix-block-sum](https://github.com/Sumit-0005/CP-track/tree/master/1314-matrix-block-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumit-0005/CP-track/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sumit-0005/CP-track/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-0005/CP-track/tree/master/1732-find-the-highest-altitude) |
@@ -981,6 +983,7 @@ In this we add every question that we solve on leetcode
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1314-matrix-block-sum](https://github.com/Sumit-0005/CP-track/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sumit-0005/CP-track/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |

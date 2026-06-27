@@ -38,6 +38,7 @@ In this we add every question that we solve on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-0005/CP-track/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -584,6 +585,7 @@ In this we add every question that we solve on leetcode
 | [0120-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-0005/CP-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |

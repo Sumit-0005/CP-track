@@ -75,6 +75,7 @@ In this we add every question that we solve on leetcode
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sumit-0005/CP-track/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sumit-0005/CP-track/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
@@ -383,6 +384,7 @@ In this we add every question that we solve on leetcode
 | [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-0005/CP-track/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sumit-0005/CP-track/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sumit-0005/CP-track/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -800,6 +802,7 @@ In this we add every question that we solve on leetcode
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-0005/CP-track/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-0005/CP-track/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sumit-0005/CP-track/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-0005/CP-track/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/Sumit-0005/CP-track/tree/master/1314-matrix-block-sum) |

@@ -115,6 +115,7 @@ In this we add every question that we solve on leetcode
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sumit-0005/CP-track/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sumit-0005/CP-track/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-0005/CP-track/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumit-0005/CP-track/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumit-0005/CP-track/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Sumit-0005/CP-track/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sumit-0005/CP-track/tree/master/1833-maximum-ice-cream-bars) |
@@ -611,6 +612,7 @@ In this we add every question that we solve on leetcode
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sumit-0005/CP-track/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sumit-0005/CP-track/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumit-0005/CP-track/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/Sumit-0005/CP-track/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sumit-0005/CP-track/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sumit-0005/CP-track/tree/master/2054-two-best-non-overlapping-events) |

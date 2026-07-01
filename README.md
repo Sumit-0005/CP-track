@@ -58,6 +58,7 @@ In this we add every question that we solve on leetcode
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Sumit-0005/CP-track/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumit-0005/CP-track/tree/master/0485-max-consecutive-ones) |
@@ -624,6 +625,7 @@ In this we add every question that we solve on leetcode
 | [0152-maximum-product-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0647-palindromic-substrings) |
@@ -683,6 +685,7 @@ In this we add every question that we solve on leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-0005/CP-track/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Sumit-0005/CP-track/tree/master/0759-set-intersection-size-at-least-two) |
@@ -845,6 +848,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-0005/CP-track/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-0005/CP-track/tree/master/0713-subarray-product-less-than-k) |
@@ -1001,6 +1005,7 @@ In this we add every question that we solve on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit-0005/CP-track/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-0005/CP-track/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumit-0005/CP-track/tree/master/0744-find-smallest-letter-greater-than-target) |

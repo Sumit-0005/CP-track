@@ -539,6 +539,7 @@ In this we add every question that we solve on leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Sumit-0005/CP-track/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sumit-0005/CP-track/tree/master/0166-fraction-to-recurring-decimal) |
+| [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sumit-0005/CP-track/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
@@ -747,6 +748,7 @@ In this we add every question that we solve on leetcode
 | [0166-fraction-to-recurring-decimal](https://github.com/Sumit-0005/CP-track/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
@@ -837,6 +839,7 @@ In this we add every question that we solve on leetcode
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumit-0005/CP-track/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit-0005/CP-track/tree/master/0735-asteroid-collision) |

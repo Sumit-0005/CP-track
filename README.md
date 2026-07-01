@@ -109,6 +109,7 @@ In this we add every question that we solve on leetcode
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sumit-0005/CP-track/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sumit-0005/CP-track/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sumit-0005/CP-track/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sumit-0005/CP-track/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sumit-0005/CP-track/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -340,6 +341,7 @@ In this we add every question that we solve on leetcode
 | [1340-jump-game-v](https://github.com/Sumit-0005/CP-track/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit-0005/CP-track/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sumit-0005/CP-track/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sumit-0005/CP-track/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sumit-0005/CP-track/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sumit-0005/CP-track/tree/master/1833-maximum-ice-cream-bars) |
@@ -1016,6 +1018,7 @@ In this we add every question that we solve on leetcode
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sumit-0005/CP-track/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sumit-0005/CP-track/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit-0005/CP-track/tree/master/1612-avoid-flood-in-the-city) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-0005/CP-track/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sumit-0005/CP-track/tree/master/1870-minimum-speed-to-arrive-on-time) |

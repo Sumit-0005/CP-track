@@ -544,6 +544,7 @@ In this we add every question that we solve on leetcode
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sumit-0005/CP-track/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sumit-0005/CP-track/tree/master/0567-permutation-in-string) |
@@ -843,6 +844,7 @@ In this we add every question that we solve on leetcode
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Sumit-0005/CP-track/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit-0005/CP-track/tree/master/0735-asteroid-collision) |
@@ -1154,6 +1156,7 @@ In this we add every question that we solve on leetcode
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Sumit-0005/CP-track/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Linked List

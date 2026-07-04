@@ -315,6 +315,7 @@ In this we add every question that we solve on leetcode
 | [0647-palindromic-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-0005/CP-track/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-0005/CP-track/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sumit-0005/CP-track/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -558,6 +559,7 @@ In this we add every question that we solve on leetcode
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Sumit-0005/CP-track/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -853,6 +855,7 @@ In this we add every question that we solve on leetcode
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit-0005/CP-track/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sumit-0005/CP-track/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -983,6 +986,7 @@ In this we add every question that we solve on leetcode
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Sumit-0005/CP-track/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Sumit-0005/CP-track/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumit-0005/CP-track/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1545-find-kth-bit-in-nth-binary-string) |

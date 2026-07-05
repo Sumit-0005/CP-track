@@ -561,6 +561,7 @@ In this we add every question that we solve on leetcode
 | [0761-special-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Sumit-0005/CP-track/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-0005/CP-track/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -709,6 +710,7 @@ In this we add every question that we solve on leetcode
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-0005/CP-track/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Sumit-0005/CP-track/tree/master/0759-set-intersection-size-at-least-two) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-0005/CP-track/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -862,6 +864,7 @@ In this we add every question that we solve on leetcode
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-0005/CP-track/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit-0005/CP-track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Sumit-0005/CP-track/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

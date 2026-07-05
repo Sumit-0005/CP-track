@@ -600,6 +600,7 @@ In this we add every question that we solve on leetcode
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sumit-0005/CP-track/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sumit-0005/CP-track/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Sumit-0005/CP-track/tree/master/2573-find-the-string-with-lcp) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Sumit-0005/CP-track/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sumit-0005/CP-track/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -866,6 +867,7 @@ In this we add every question that we solve on leetcode
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumit-0005/CP-track/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/Sumit-0005/CP-track/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -1009,6 +1011,7 @@ In this we add every question that we solve on leetcode
 | [2402-meeting-rooms-iii](https://github.com/Sumit-0005/CP-track/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/Sumit-0005/CP-track/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumit-0005/CP-track/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Sumit-0005/CP-track/tree/master/3336-water-bottles-ii) |

@@ -553,6 +553,7 @@ In this we add every question that we solve on leetcode
 | [0344-reverse-string](https://github.com/Sumit-0005/CP-track/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sumit-0005/CP-track/tree/master/0567-permutation-in-string) |
@@ -711,6 +712,7 @@ In this we add every question that we solve on leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sumit-0005/CP-track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-0005/CP-track/tree/master/0680-valid-palindrome-ii) |
@@ -865,6 +867,7 @@ In this we add every question that we solve on leetcode
 | [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit-0005/CP-track/tree/master/0735-asteroid-collision) |
@@ -888,6 +891,7 @@ In this we add every question that we solve on leetcode
 | [0042-trapping-rain-water](https://github.com/Sumit-0005/CP-track/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |

@@ -98,6 +98,7 @@ In this we add every question that we solve on leetcode
 | [1200-minimum-absolute-difference](https://github.com/Sumit-0005/CP-track/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumit-0005/CP-track/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/Sumit-0005/CP-track/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumit-0005/CP-track/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1306-jump-game-iii) |
@@ -346,6 +347,7 @@ In this we add every question that we solve on leetcode
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Sumit-0005/CP-track/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Sumit-0005/CP-track/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Sumit-0005/CP-track/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit-0005/CP-track/tree/master/1356-sort-integers-by-the-number-of-1-bits) |

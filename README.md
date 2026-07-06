@@ -862,6 +862,7 @@ In this we add every question that we solve on leetcode
 | [0224-basic-calculator](https://github.com/Sumit-0005/CP-track/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit-0005/CP-track/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
@@ -980,6 +981,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0155-min-stack](https://github.com/Sumit-0005/CP-track/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit-0005/CP-track/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/Sumit-0005/CP-track/tree/master/1622-fancy-sequence) |
@@ -1306,6 +1308,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumit-0005/CP-track/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-0005/CP-track/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0918-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sumit-0005/CP-track/tree/master/2408-number-of-people-aware-of-a-secret) |

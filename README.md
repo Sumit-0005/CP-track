@@ -108,6 +108,7 @@ In this we add every question that we solve on leetcode
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit-0005/CP-track/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/Sumit-0005/CP-track/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -872,6 +873,7 @@ In this we add every question that we solve on leetcode
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-0005/CP-track/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit-0005/CP-track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Sumit-0005/CP-track/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sumit-0005/CP-track/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -984,6 +986,7 @@ In this we add every question that we solve on leetcode
 | [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/Sumit-0005/CP-track/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/Sumit-0005/CP-track/tree/master/2069-walking-robot-simulation-ii) |

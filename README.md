@@ -581,6 +581,7 @@ In this we add every question that we solve on leetcode
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Sumit-0005/CP-track/tree/master/1006-vowel-spellchecker) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit-0005/CP-track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumit-0005/CP-track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumit-0005/CP-track/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sumit-0005/CP-track/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sumit-0005/CP-track/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -732,6 +733,7 @@ In this we add every question that we solve on leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-0005/CP-track/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sumit-0005/CP-track/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumit-0005/CP-track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sumit-0005/CP-track/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -892,6 +894,7 @@ In this we add every question that we solve on leetcode
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-0005/CP-track/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit-0005/CP-track/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumit-0005/CP-track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Sumit-0005/CP-track/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -913,6 +916,7 @@ In this we add every question that we solve on leetcode
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sumit-0005/CP-track/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumit-0005/CP-track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
 |  |

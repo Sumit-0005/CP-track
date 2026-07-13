@@ -1320,6 +1320,7 @@ In this we add every question that we solve on leetcode
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Sumit-0005/CP-track/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Sumit-0005/CP-track/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit-0005/CP-track/tree/master/2837-minimum-operations-to-make-the-integer-zero) |

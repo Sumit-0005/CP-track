@@ -55,6 +55,7 @@ In this we add every question that we solve on leetcode
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/Sumit-0005/CP-track/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
@@ -314,6 +315,7 @@ In this we add every question that we solve on leetcode
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/Sumit-0005/CP-track/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Sumit-0005/CP-track/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sumit-0005/CP-track/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sumit-0005/CP-track/tree/master/0567-permutation-in-string) |
@@ -726,6 +728,7 @@ In this we add every question that we solve on leetcode
 | [0134-gas-station](https://github.com/Sumit-0005/CP-track/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumit-0005/CP-track/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit-0005/CP-track/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Sumit-0005/CP-track/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
@@ -885,6 +888,7 @@ In this we add every question that we solve on leetcode
 | [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit-0005/CP-track/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Sumit-0005/CP-track/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
@@ -913,6 +917,7 @@ In this we add every question that we solve on leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit-0005/CP-track/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Sumit-0005/CP-track/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Sumit-0005/CP-track/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |

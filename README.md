@@ -657,6 +657,7 @@ In this we add every question that we solve on leetcode
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sumit-0005/CP-track/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0120-triangle) |
@@ -786,6 +787,7 @@ In this we add every question that we solve on leetcode
 | [0066-plus-one](https://github.com/Sumit-0005/CP-track/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sumit-0005/CP-track/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sumit-0005/CP-track/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sumit-0005/CP-track/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sumit-0005/CP-track/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0172-factorial-trailing-zeroes) |
@@ -1462,6 +1464,7 @@ In this we add every question that we solve on leetcode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sumit-0005/CP-track/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sumit-0005/CP-track/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Monotonic Queue

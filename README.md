@@ -657,6 +657,7 @@ In this we add every question that we solve on leetcode
 | [0045-jump-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sumit-0005/CP-track/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Sumit-0005/CP-track/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sumit-0005/CP-track/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sumit-0005/CP-track/tree/master/0118-pascals-triangle) |
@@ -784,6 +785,7 @@ In this we add every question that we solve on leetcode
 | [0013-roman-to-integer](https://github.com/Sumit-0005/CP-track/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sumit-0005/CP-track/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sumit-0005/CP-track/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sumit-0005/CP-track/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sumit-0005/CP-track/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sumit-0005/CP-track/tree/master/0069-sqrtx) |
@@ -1448,6 +1450,7 @@ In this we add every question that we solve on leetcode
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sumit-0005/CP-track/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sumit-0005/CP-track/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sumit-0005/CP-track/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sumit-0005/CP-track/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

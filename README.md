@@ -28,6 +28,7 @@ In this we add every question that we solve on leetcode
 | [0068-text-justification](https://github.com/Sumit-0005/CP-track/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sumit-0005/CP-track/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sumit-0005/CP-track/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit-0005/CP-track/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sumit-0005/CP-track/tree/master/0085-maximal-rectangle) |
@@ -1260,6 +1261,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sumit-0005/CP-track/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sumit-0005/CP-track/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Sumit-0005/CP-track/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
@@ -1323,6 +1325,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Sumit-0005/CP-track/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Sumit-0005/CP-track/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Sumit-0005/CP-track/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |

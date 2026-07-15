@@ -65,6 +65,7 @@ In this we add every question that we solve on leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumit-0005/CP-track/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Sumit-0005/CP-track/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/0503-next-greater-element-ii) |
@@ -671,6 +672,7 @@ In this we add every question that we solve on leetcode
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Sumit-0005/CP-track/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit-0005/CP-track/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1322,6 +1324,7 @@ In this we add every question that we solve on leetcode
 | [0022-generate-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sumit-0005/CP-track/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/Sumit-0005/CP-track/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Sumit-0005/CP-track/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumit-0005/CP-track/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sumit-0005/CP-track/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1980-find-unique-binary-string) |

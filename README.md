@@ -1033,6 +1033,7 @@ In this we add every question that we solve on leetcode
 | [0225-implement-stack-using-queues](https://github.com/Sumit-0005/CP-track/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
+| [0707-design-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/Sumit-0005/CP-track/tree/master/1622-fancy-sequence) |
@@ -1257,6 +1258,7 @@ In this we add every question that we solve on leetcode
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit-0005/CP-track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sumit-0005/CP-track/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3507-minimum-pair-removal-to-sort-array-i) |

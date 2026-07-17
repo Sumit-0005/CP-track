@@ -1271,6 +1271,7 @@ In this we add every question that we solve on leetcode
 | [0021-merge-two-sorted-lists](https://github.com/Sumit-0005/CP-track/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Sumit-0005/CP-track/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sumit-0005/CP-track/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Sumit-0005/CP-track/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Sumit-0005/CP-track/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit-0005/CP-track/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |

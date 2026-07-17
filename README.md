@@ -330,6 +330,7 @@ In this we add every question that we solve on leetcode
 | [0680-valid-palindrome-ii](https://github.com/Sumit-0005/CP-track/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumit-0005/CP-track/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sumit-0005/CP-track/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1265,6 +1266,7 @@ In this we add every question that we solve on leetcode
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sumit-0005/CP-track/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3507-minimum-pair-removal-to-sort-array-i) |

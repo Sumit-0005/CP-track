@@ -317,6 +317,7 @@ In this we add every question that we solve on leetcode
 | [0141-linked-list-cycle](https://github.com/Sumit-0005/CP-track/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit-0005/CP-track/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Sumit-0005/CP-track/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit-0005/CP-track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Sumit-0005/CP-track/tree/master/0165-compare-version-numbers) |
@@ -355,6 +356,7 @@ In this we add every question that we solve on leetcode
 | [0049-group-anagrams](https://github.com/Sumit-0005/CP-track/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sumit-0005/CP-track/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit-0005/CP-track/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sumit-0005/CP-track/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
@@ -520,6 +522,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-0005/CP-track/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Sumit-0005/CP-track/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sumit-0005/CP-track/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit-0005/CP-track/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1281,6 +1284,7 @@ In this we add every question that we solve on leetcode
 | [0141-linked-list-cycle](https://github.com/Sumit-0005/CP-track/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit-0005/CP-track/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sumit-0005/CP-track/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Sumit-0005/CP-track/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sumit-0005/CP-track/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0234-palindrome-linked-list) |
@@ -1587,6 +1591,7 @@ In this we add every question that we solve on leetcode
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sumit-0005/CP-track/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sumit-0005/CP-track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sumit-0005/CP-track/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Data Stream

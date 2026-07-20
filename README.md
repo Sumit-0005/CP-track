@@ -100,6 +100,7 @@ In this we add every question that we solve on leetcode
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumit-0005/CP-track/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sumit-0005/CP-track/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/Sumit-0005/CP-track/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Sumit-0005/CP-track/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sumit-0005/CP-track/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumit-0005/CP-track/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Sumit-0005/CP-track/tree/master/1288-remove-covered-intervals) |
@@ -1081,6 +1082,7 @@ In this we add every question that we solve on leetcode
 | [0735-asteroid-collision](https://github.com/Sumit-0005/CP-track/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sumit-0005/CP-track/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Sumit-0005/CP-track/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sumit-0005/CP-track/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Sumit-0005/CP-track/tree/master/1642-water-bottles) |
@@ -1191,6 +1193,7 @@ In this we add every question that we solve on leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/Sumit-0005/CP-track/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumit-0005/CP-track/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumit-0005/CP-track/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/Sumit-0005/CP-track/tree/master/1314-matrix-block-sum) |

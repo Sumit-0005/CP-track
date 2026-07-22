@@ -952,6 +952,7 @@ In this we add every question that we solve on leetcode
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumit-0005/CP-track/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sumit-0005/CP-track/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/Sumit-0005/CP-track/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
@@ -970,6 +971,7 @@ In this we add every question that we solve on leetcode
 | [1019-next-greater-node-in-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sumit-0005/CP-track/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1286,6 +1288,7 @@ In this we add every question that we solve on leetcode
 | [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -1313,6 +1316,7 @@ In this we add every question that we solve on leetcode
 | [0876-middle-of-the-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sumit-0005/CP-track/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |

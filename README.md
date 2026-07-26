@@ -448,6 +448,7 @@ In this we add every question that we solve on leetcode
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/Sumit-0005/CP-track/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-0005/CP-track/tree/master/0560-subarray-sum-equals-k) |
@@ -1076,6 +1077,7 @@ In this we add every question that we solve on leetcode
 | [0225-implement-stack-using-queues](https://github.com/Sumit-0005/CP-track/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sumit-0005/CP-track/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/Sumit-0005/CP-track/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Sumit-0005/CP-track/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -1323,6 +1325,7 @@ In this we add every question that we solve on leetcode
 | [0234-palindrome-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit-0005/CP-track/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Sumit-0005/CP-track/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/1019-next-greater-node-in-linked-list) |
@@ -1576,6 +1579,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumit-0005/CP-track/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Sumit-0005/CP-track/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory

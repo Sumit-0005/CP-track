@@ -1324,6 +1324,7 @@ In this we add every question that we solve on leetcode
 | [0206-reverse-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit-0005/CP-track/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Sumit-0005/CP-track/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0707-design-linked-list) |
@@ -1478,6 +1479,7 @@ In this we add every question that we solve on leetcode
 | [0112-path-sum](https://github.com/Sumit-0005/CP-track/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumit-0005/CP-track/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sumit-0005/CP-track/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1579,6 +1581,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumit-0005/CP-track/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/Sumit-0005/CP-track/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumit-0005/CP-track/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumit-0005/CP-track/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |

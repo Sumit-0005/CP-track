@@ -66,6 +66,7 @@ In this we add every question that we solve on leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-0005/CP-track/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumit-0005/CP-track/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumit-0005/CP-track/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sumit-0005/CP-track/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Sumit-0005/CP-track/tree/master/0498-diagonal-traverse) |
@@ -717,6 +718,7 @@ In this we add every question that we solve on leetcode
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sumit-0005/CP-track/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Sumit-0005/CP-track/tree/master/0647-palindromic-substrings) |
@@ -851,6 +853,7 @@ In this we add every question that we solve on leetcode
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Sumit-0005/CP-track/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Sumit-0005/CP-track/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit-0005/CP-track/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1318,6 +1321,7 @@ In this we add every question that we solve on leetcode
 | [0234-palindrome-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Sumit-0005/CP-track/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sumit-0005/CP-track/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sumit-0005/CP-track/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1477,6 +1481,7 @@ In this we add every question that we solve on leetcode
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |

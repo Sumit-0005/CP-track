@@ -87,6 +87,7 @@ In this we add every question that we solve on leetcode
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Sumit-0005/CP-track/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Sumit-0005/CP-track/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-0005/CP-track/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0944-delete-columns-to-make-sorted) |
@@ -725,6 +726,7 @@ In this we add every question that we solve on leetcode
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit-0005/CP-track/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Sumit-0005/CP-track/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Sumit-0005/CP-track/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumit-0005/CP-track/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sumit-0005/CP-track/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sumit-0005/CP-track/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -861,6 +863,7 @@ In this we add every question that we solve on leetcode
 | [0788-rotated-digits](https://github.com/Sumit-0005/CP-track/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Sumit-0005/CP-track/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumit-0005/CP-track/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1482,6 +1485,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |

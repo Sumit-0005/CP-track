@@ -121,6 +121,7 @@ In this we add every question that we solve on leetcode
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sumit-0005/CP-track/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/Sumit-0005/CP-track/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sumit-0005/CP-track/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-0005/CP-track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -734,6 +735,7 @@ In this we add every question that we solve on leetcode
 | [1301-number-of-paths-with-max-score](https://github.com/Sumit-0005/CP-track/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sumit-0005/CP-track/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Sumit-0005/CP-track/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sumit-0005/CP-track/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sumit-0005/CP-track/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -869,6 +871,7 @@ In this we add every question that we solve on leetcode
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumit-0005/CP-track/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sumit-0005/CP-track/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Sumit-0005/CP-track/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sumit-0005/CP-track/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sumit-0005/CP-track/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1486,6 +1489,7 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumit-0005/CP-track/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |

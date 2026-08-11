@@ -749,6 +749,7 @@ In this we add every question that we solve on leetcode
 | [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sumit-0005/CP-track/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sumit-0005/CP-track/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-0005/CP-track/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sumit-0005/CP-track/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sumit-0005/CP-track/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -889,6 +890,7 @@ In this we add every question that we solve on leetcode
 | [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sumit-0005/CP-track/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sumit-0005/CP-track/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sumit-0005/CP-track/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/Sumit-0005/CP-track/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sumit-0005/CP-track/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1511,6 +1513,7 @@ In this we add every question that we solve on leetcode
 | [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
@@ -1716,8 +1719,18 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

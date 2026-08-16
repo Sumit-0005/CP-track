@@ -167,6 +167,7 @@ In this we add every question that we solve on leetcode
 | [1980-find-unique-binary-string](https://github.com/Sumit-0005/CP-track/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumit-0005/CP-track/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/Sumit-0005/CP-track/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sumit-0005/CP-track/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sumit-0005/CP-track/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sumit-0005/CP-track/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -580,6 +581,7 @@ In this we add every question that we solve on leetcode
 | [0992-subarrays-with-k-different-integers](https://github.com/Sumit-0005/CP-track/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumit-0005/CP-track/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sumit-0005/CP-track/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sumit-0005/CP-track/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/Sumit-0005/CP-track/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumit-0005/CP-track/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -833,6 +835,7 @@ In this we add every question that we solve on leetcode
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sumit-0005/CP-track/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-0005/CP-track/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Sumit-0005/CP-track/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sumit-0005/CP-track/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Sumit-0005/CP-track/tree/master/2126-destroying-asteroids) |
@@ -908,6 +911,7 @@ In this we add every question that we solve on leetcode
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sumit-0005/CP-track/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/Sumit-0005/CP-track/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-0005/CP-track/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit-0005/CP-track/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sumit-0005/CP-track/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumit-0005/CP-track/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1526,6 +1530,7 @@ In this we add every question that we solve on leetcode
 | [1140-stone-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sumit-0005/CP-track/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
@@ -1732,15 +1737,18 @@ In this we add every question that we solve on leetcode
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sumit-0005/CP-track/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sumit-0005/CP-track/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |

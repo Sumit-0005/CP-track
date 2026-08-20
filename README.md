@@ -225,6 +225,7 @@ In this we add every question that we solve on leetcode
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sumit-0005/CP-track/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sumit-0005/CP-track/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sumit-0005/CP-track/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sumit-0005/CP-track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sumit-0005/CP-track/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sumit-0005/CP-track/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sumit-0005/CP-track/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1194,6 +1195,7 @@ In this we add every question that we solve on leetcode
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sumit-0005/CP-track/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/Sumit-0005/CP-track/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sumit-0005/CP-track/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sumit-0005/CP-track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Sumit-0005/CP-track/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Sumit-0005/CP-track/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Sumit-0005/CP-track/tree/master/3433-count-mentions-per-user) |

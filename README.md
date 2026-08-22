@@ -959,6 +959,7 @@ In this we add every question that we solve on leetcode
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumit-0005/CP-track/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sumit-0005/CP-track/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sumit-0005/CP-track/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit-0005/CP-track/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sumit-0005/CP-track/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sumit-0005/CP-track/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sumit-0005/CP-track/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |

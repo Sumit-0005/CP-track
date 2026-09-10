@@ -1569,6 +1569,7 @@ In this we add every question that we solve on leetcode
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumit-0005/CP-track/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-0005/CP-track/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sumit-0005/CP-track/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sumit-0005/CP-track/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sumit-0005/CP-track/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1591,6 +1592,7 @@ In this we add every question that we solve on leetcode
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sumit-0005/CP-track/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sumit-0005/CP-track/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Sumit-0005/CP-track/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-0005/CP-track/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumit-0005/CP-track/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sumit-0005/CP-track/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sumit-0005/CP-track/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1633,6 +1635,7 @@ In this we add every question that we solve on leetcode
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumit-0005/CP-track/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumit-0005/CP-track/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sumit-0005/CP-track/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-0005/CP-track/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
 | ------- |

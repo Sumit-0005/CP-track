@@ -905,6 +905,7 @@ In this we add every question that we solve on leetcode
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sumit-0005/CP-track/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Sumit-0005/CP-track/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Sumit-0005/CP-track/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Sumit-0005/CP-track/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Sumit-0005/CP-track/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumit-0005/CP-track/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1512,6 +1513,7 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Sumit-0005/CP-track/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Sumit-0005/CP-track/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumit-0005/CP-track/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sumit-0005/CP-track/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit-0005/CP-track/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |

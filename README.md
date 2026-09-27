@@ -54,6 +54,7 @@ In this we add every question that we solve on leetcode
 | [0238-product-of-array-except-self](https://github.com/Sumit-0005/CP-track/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-0005/CP-track/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit-0005/CP-track/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sumit-0005/CP-track/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sumit-0005/CP-track/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
@@ -388,6 +389,7 @@ In this we add every question that we solve on leetcode
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sumit-0005/CP-track/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sumit-0005/CP-track/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
@@ -472,6 +474,7 @@ In this we add every question that we solve on leetcode
 | [0169-majority-element](https://github.com/Sumit-0005/CP-track/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-0005/CP-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumit-0005/CP-track/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sumit-0005/CP-track/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-0005/CP-track/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-0005/CP-track/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -893,6 +896,7 @@ In this we add every question that we solve on leetcode
 | [0189-rotate-array](https://github.com/Sumit-0005/CP-track/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Sumit-0005/CP-track/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sumit-0005/CP-track/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/Sumit-0005/CP-track/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sumit-0005/CP-track/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit-0005/CP-track/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1244,6 +1248,7 @@ In this we add every question that we solve on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-0005/CP-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-0005/CP-track/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit-0005/CP-track/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sumit-0005/CP-track/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Sumit-0005/CP-track/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Sumit-0005/CP-track/tree/master/0611-valid-triangle-number) |
@@ -1431,6 +1436,7 @@ In this we add every question that we solve on leetcode
 | [0078-subsets](https://github.com/Sumit-0005/CP-track/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Sumit-0005/CP-track/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sumit-0005/CP-track/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Sumit-0005/CP-track/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sumit-0005/CP-track/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sumit-0005/CP-track/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sumit-0005/CP-track/tree/master/0371-sum-of-two-integers) |

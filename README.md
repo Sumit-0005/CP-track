@@ -1793,4 +1793,8 @@ In this we add every question that we solve on leetcode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sumit-0005/CP-track/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sumit-0005/CP-track/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
